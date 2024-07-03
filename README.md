@@ -19,8 +19,8 @@ To get started, clone the repository and install the required packages.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/cybernews-scraper.git
-cd cybernews-scraper
+git clone https://github.com/mgscion/Cybersecurity-News-Web-Scraper.git
+cd Cybersecurity-News-Web-Scraper
 ```
 ### Install Dependencies
 
