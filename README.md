@@ -25,7 +25,7 @@ cd cybernews-scraper
 ### Install Dependencies
 
 ```pip
-pip install requests beautifulsoup4 lxml
+pip install -r requirements.txt
 ```
 ## Usage
 - Run the Scraper
